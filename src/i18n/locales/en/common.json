@@ -1,0 +1,34 @@
+{
+  "appName": "AESTRA",
+  "tagline": "Cinematic endurance command center",
+  "auth": {
+    "welcome": "Train with precision.",
+    "login": "Log in",
+    "signup": "Create account",
+    "continueGoogle": "Continue with Google",
+    "continueStrava": "Continue with Strava"
+  },
+  "onboarding": {
+    "userData": "User data",
+    "prs": "Personal records",
+    "sports": "Sports",
+    "preferences": "Training preferences",
+    "goals": "Goals",
+    "next": "Next",
+    "finish": "Finish onboarding"
+  },
+  "tabs": {
+    "home": "Home",
+    "training": "Training",
+    "recovery": "Recovery",
+    "nutrition": "Nutrition",
+    "events": "Events",
+    "insights": "Insights",
+    "profile": "Profile",
+    "coach": "Coach"
+  },
+  "status": {
+    "loading": "Loading...",
+    "error": "Something went wrong"
+  }
+}
