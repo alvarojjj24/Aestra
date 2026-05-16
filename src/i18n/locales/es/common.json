@@ -1,0 +1,34 @@
+{
+  "appName": "AESTRA",
+  "tagline": "Centro de mando cinematográfico de resistencia",
+  "auth": {
+    "welcome": "Entrena con precisión.",
+    "login": "Iniciar sesión",
+    "signup": "Crear cuenta",
+    "continueGoogle": "Continuar con Google",
+    "continueStrava": "Continuar con Strava"
+  },
+  "onboarding": {
+    "userData": "Datos del usuario",
+    "prs": "Récords personales",
+    "sports": "Deportes",
+    "preferences": "Preferencias de entrenamiento",
+    "goals": "Objetivos",
+    "next": "Siguiente",
+    "finish": "Finalizar onboarding"
+  },
+  "tabs": {
+    "home": "Inicio",
+    "training": "Entrenamiento",
+    "recovery": "Recuperación",
+    "nutrition": "Nutrición",
+    "events": "Eventos",
+    "insights": "Insights",
+    "profile": "Perfil",
+    "coach": "Coach"
+  },
+  "status": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal"
+  }
+}
